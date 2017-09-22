@@ -168,7 +168,7 @@ namespace CPE200Lab1
                 hasDot = true;
             }
         }
-
+        //yyuo
         private void btnSign_Click(object sender, EventArgs e)
         {
             if (lblDisplay.Text is "Error")
@@ -199,7 +199,7 @@ namespace CPE200Lab1
         }
 
         private void btnBack_Click(object sender, EventArgs e)
-            //uooooooooooo
+            //uooooooooooojjjjj
         {
             if (lblDisplay.Text is "Error")
             {
